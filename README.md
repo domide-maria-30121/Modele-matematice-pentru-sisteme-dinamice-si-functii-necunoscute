@@ -1,0 +1,1 @@
+# Modele-matematice-pentru-sisteme-dinamice-i-func-ii-necunoscute
