@@ -1,4 +1,4 @@
-# Modele-matematice-pentru-sisteme-dinamice-i-func-ii-necunoscute
+# Modele-matematice-pentru-sisteme-dinamice-si-functii-necunoscute
 Acest repository include două proiecte realizate în echipă, care abordează modelarea matematică și identificarea parametrilor în sisteme dinamice complexe, utilizând MATLAB. Proiectele sunt:
 
 Modelarea unei funcții necunoscute:
